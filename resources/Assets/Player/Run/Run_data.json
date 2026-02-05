@@ -1,0 +1,79 @@
+{
+  "sprites": [
+    {
+      "fileName": "0.png",
+      "width": 50,
+      "height": 42,
+      "x": 3,
+      "y": 0
+    },
+    {
+      "fileName": "1.png",
+      "width": 50,
+      "height": 43,
+      "x": 3,
+      "y": 43
+    },
+    {
+      "fileName": "2.png",
+      "width": 50,
+      "height": 45,
+      "x": 3,
+      "y": 86
+    },
+    {
+      "fileName": "3.png",
+      "width": 50,
+      "height": 45,
+      "x": 3,
+      "y": 129
+    },
+    {
+      "fileName": "4.png",
+      "width": 50,
+      "height": 46,
+      "x": 3,
+      "y": 172
+    },
+    {
+      "fileName": "5.png",
+      "width": 50,
+      "height": 45,
+      "x": 3,
+      "y": 215
+    },
+    {
+      "fileName": "6.png",
+      "width": 50,
+      "height": 45,
+      "x": 3,
+      "y": 258
+    },
+    {
+      "fileName": "7.png",
+      "width": 50,
+      "height": 45,
+      "x": 0,
+      "y": 301
+    },
+    {
+      "fileName": "8.png",
+      "width": 50,
+      "height": 45,
+      "x": 0,
+      "y": 344
+    },
+    {
+      "fileName": "9.png",
+      "width": 50,
+      "height": 45,
+      "x": 2,
+      "y": 387
+    }
+  ],
+  "packMode": "grid",
+  "padding": 0,
+  "backgroundColor": "rgba(0, 0, 0, 0)",
+  "spriteSheetWidth": 43,
+  "spriteSheetHeight": 430
+}

@@ -1,0 +1,149 @@
+{
+  "sprites": [
+    {
+      "fileName": "a.png",
+      "width": 36,
+      "height": 47,
+      "x": 3,
+      "y": 0
+    },
+    {
+      "fileName": "b.png",
+      "width": 37,
+      "height": 47,
+      "x": 46,
+      "y": 0
+    },
+    {
+      "fileName": "c.png",
+      "width": 37,
+      "height": 47,
+      "x": 89,
+      "y": 0
+    },
+    {
+      "fileName": "d.png",
+      "width": 35,
+      "height": 47,
+      "x": 133,
+      "y": 0
+    },
+    {
+      "fileName": "e.png",
+      "width": 36,
+      "height": 47,
+      "x": 175,
+      "y": 0
+    },
+    {
+      "fileName": "f.png",
+      "width": 39,
+      "height": 47,
+      "x": 217,
+      "y": 0
+    },
+    {
+      "fileName": "g.png",
+      "width": 36,
+      "height": 47,
+      "x": 261,
+      "y": 0
+    },
+    {
+      "fileName": "h.png",
+      "width": 38,
+      "height": 47,
+      "x": 303,
+      "y": 0
+    },
+    {
+      "fileName": "i.png",
+      "width": 38,
+      "height": 47,
+      "x": 346,
+      "y": 0
+    },
+    {
+      "fileName": "j.png",
+      "width": 38,
+      "height": 47,
+      "x": 389,
+      "y": 0
+    },
+    {
+      "fileName": "k.png",
+      "width": 36,
+      "height": 45,
+      "x": 433,
+      "y": 1
+    },
+    {
+      "fileName": "l.png",
+      "width": 40,
+      "height": 45,
+      "x": 474,
+      "y": 1
+    },
+    {
+      "fileName": "m.png",
+      "width": 43,
+      "height": 45,
+      "x": 516,
+      "y": 1
+    },
+    {
+      "fileName": "n.png",
+      "width": 42,
+      "height": 45,
+      "x": 559,
+      "y": 1
+    },
+    {
+      "fileName": "o.png",
+      "width": 42,
+      "height": 45,
+      "x": 602,
+      "y": 1
+    },
+    {
+      "fileName": "p.png",
+      "width": 42,
+      "height": 38,
+      "x": 645,
+      "y": 4
+    },
+    {
+      "fileName": "q.png",
+      "width": 38,
+      "height": 38,
+      "x": 690,
+      "y": 4
+    },
+    {
+      "fileName": "r.png",
+      "width": 42,
+      "height": 38,
+      "x": 731,
+      "y": 4
+    },
+    {
+      "fileName": "s.png",
+      "width": 41,
+      "height": 38,
+      "x": 775,
+      "y": 4
+    },
+    {
+      "fileName": "t.png",
+      "width": 41,
+      "height": 38,
+      "x": 818,
+      "y": 4
+    }
+  ],
+  "packMode": "grid",
+  "padding": 0,
+  "backgroundColor": "rgba(0, 0, 0, 0)",
+  "spriteSheetWidth": 860,
+  "spriteSheetHeight": 47
+}
