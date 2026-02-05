@@ -1,0 +1,135 @@
+{
+  "sprites": [
+    {
+      "fileName": "0.png",
+      "width": 40,
+      "height": 38,
+      "x": 1,
+      "y": 0
+    },
+    {
+      "fileName": "1.png",
+      "width": 38,
+      "height": 38,
+      "x": 45,
+      "y": 0
+    },
+    {
+      "fileName": "11.png",
+      "width": 37,
+      "height": 38,
+      "x": 88,
+      "y": 0
+    },
+    {
+      "fileName": "12.png",
+      "width": 37,
+      "height": 38,
+      "x": 131,
+      "y": 0
+    },
+    {
+      "fileName": "13.png",
+      "width": 37,
+      "height": 38,
+      "x": 174,
+      "y": 0
+    },
+    {
+      "fileName": "14.png",
+      "width": 42,
+      "height": 38,
+      "x": 215,
+      "y": 0
+    },
+    {
+      "fileName": "15.png",
+      "width": 40,
+      "height": 38,
+      "x": 259,
+      "y": 0
+    },
+    {
+      "fileName": "16.png",
+      "width": 40,
+      "height": 38,
+      "x": 302,
+      "y": 0
+    },
+    {
+      "fileName": "17.png",
+      "width": 40,
+      "height": 38,
+      "x": 345,
+      "y": 0
+    },
+    {
+      "fileName": "18.png",
+      "width": 40,
+      "height": 38,
+      "x": 388,
+      "y": 0
+    },
+    {
+      "fileName": "2.png",
+      "width": 36,
+      "height": 38,
+      "x": 433,
+      "y": 0
+    },
+    {
+      "fileName": "3.png",
+      "width": 41,
+      "height": 38,
+      "x": 473,
+      "y": 0
+    },
+    {
+      "fileName": "4.png",
+      "width": 42,
+      "height": 38,
+      "x": 516,
+      "y": 0
+    },
+    {
+      "fileName": "5.png",
+      "width": 42,
+      "height": 38,
+      "x": 559,
+      "y": 0
+    },
+    {
+      "fileName": "6.png",
+      "width": 40,
+      "height": 38,
+      "x": 603,
+      "y": 0
+    },
+    {
+      "fileName": "7.png",
+      "width": 40,
+      "height": 38,
+      "x": 646,
+      "y": 0
+    },
+    {
+      "fileName": "8.png",
+      "width": 37,
+      "height": 38,
+      "x": 690,
+      "y": 0
+    },
+    {
+      "fileName": "9.png",
+      "width": 37,
+      "height": 38,
+      "x": 733,
+      "y": 0
+    }
+  ],
+  "packMode": "grid",
+  "padding": 0,
+  "backgroundColor": "rgba(0, 0, 0, 0)",
+  "spriteSheetWidth": 774,
+  "spriteSheetHeight": 38
+}

@@ -1,0 +1,44 @@
+{
+  "sprites": [
+    {
+      "fileName": "0.png",
+      "width": 38,
+      "height": 24,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "fileName": "1.png",
+      "width": 38,
+      "height": 24,
+      "x": 42,
+      "y": 0
+    },
+    {
+      "fileName": "2.png",
+      "width": 38,
+      "height": 24,
+      "x": 84,
+      "y": 0
+    },
+    {
+      "fileName": "3.png",
+      "width": 38,
+      "height": 24,
+      "x": 126,
+      "y": 0
+    },
+    {
+      "fileName": "4.png",
+      "width": 36,
+      "height": 24,
+      "x": 170,
+      "y": 0
+    }
+  ],
+  "packMode": "grid",
+  "padding": 0,
+  "backgroundColor": "rgba(0, 0, 0, 0)",
+  "spriteSheetWidth": 252,
+  "spriteSheetHeight": 24
+}
