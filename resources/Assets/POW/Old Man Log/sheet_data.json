@@ -1,0 +1,72 @@
+{
+  "sprites": [
+    {
+      "fileName": "0.png",
+      "width": 39,
+      "height": 50,
+      "x": 0,
+      "y": 0
+    },
+    {
+      "fileName": "1.png",
+      "width": 39,
+      "height": 50,
+      "x": 40,
+      "y": 0
+    },
+    {
+      "fileName": "2.png",
+      "width": 39,
+      "height": 50,
+      "x": 80,
+      "y": 0
+    },
+    // {
+    //   "fileName": "3.png",
+    //   "width": 40,
+    //   "height": 50,
+    //   "x": 120,
+    //   "y": 0
+    // },
+    // {
+    //   "fileName": "4.png",
+    //   "width": 39,
+    //   "height": 50,
+    //   "x": 160,
+    //   "y": 0
+    // },
+    // {
+    //   "fileName": "5.png",
+    //   "width": 40,
+    //   "height": 50,
+    //   "x": 200,
+    //   "y": 0
+    // },
+    // {
+    //   "fileName": "6.png",
+    //   "width": 39,
+    //   "height": 50,
+    //   "x": 240,
+    //   "y": 0
+    // },
+    {
+      "fileName": "7.png",
+      "width": 39,
+      "height": 50,
+      "x": 280,
+      "y": 0
+    },
+    {
+      "fileName": "8.png",
+      "width": 39,
+      "height": 50,
+      "x": 320,
+      "y": 0
+    }
+  ],
+  "packMode": "grid",
+  "padding": 0,
+  "backgroundColor": "rgba(0, 0, 0, 0)",
+  "spriteSheetWidth": 360,
+  "spriteSheetHeight": 50
+}

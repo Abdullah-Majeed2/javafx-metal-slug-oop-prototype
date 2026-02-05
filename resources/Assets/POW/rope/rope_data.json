@@ -1,0 +1,16 @@
+{
+  "sprites": [
+    {
+      "fileName": "rope.png",
+      "width": 4,
+      "height": 19,
+      "x": 0,
+      "y": 0
+    }
+  ],
+  "packMode": "grid",
+  "padding": 0,
+  "backgroundColor": "rgba(0, 0, 0, 0)",
+  "spriteSheetWidth": 4,
+  "spriteSheetHeight": 19
+}
