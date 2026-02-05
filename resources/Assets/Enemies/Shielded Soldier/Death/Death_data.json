@@ -1,0 +1,107 @@
+{
+  "sprites": [
+    {
+      "fileName": "0.png",
+      "width": 37,
+      "height": 41,
+      "x": 12,
+      "y": 0
+    },
+    {
+      "fileName": "1.png",
+      "width": 33,
+      "height": 41,
+      "x": 75,
+      "y": 0
+    },
+    {
+      "fileName": "2.png",
+      "width": 41,
+      "height": 41,
+      "x": 132,
+      "y": 0
+    },
+    {
+      "fileName": "3.png",
+      "width": 43,
+      "height": 41,
+      "x": 192,
+      "y": 0
+    },
+    {
+      "fileName": "4.png",
+      "width": 53,
+      "height": 41,
+      "x": 248,
+      "y": 0
+    },
+    {
+      "fileName": "5.png",
+      "width": 59,
+      "height": 41,
+      "x": 306,
+      "y": 0
+    },
+    {
+      "fileName": "6.png",
+      "width": 59,
+      "height": 41,
+      "x": 367,
+      "y": 0
+    },
+    {
+      "fileName": "7.png",
+      "width": 59,
+      "height": 40,
+      "x": 428,
+      "y": 0
+    },
+    {
+      "fileName": "8.png",
+      "width": 59,
+      "height": 41,
+      "x": 489,
+      "y": 0
+    },
+    {
+      "fileName": "9.png",
+      "width": 59,
+      "height": 41,
+      "x": 550,
+      "y": 0
+    },
+    {
+      "fileName": "99.png",
+      "width": 61,
+      "height": 41,
+      "x": 610,
+      "y": 0
+    },
+    {
+      "fileName": "999.png",
+      "width": 59,
+      "height": 41,
+      "x": 672,
+      "y": 0
+    },
+    {
+      "fileName": "9999.png",
+      "width": 59,
+      "height": 41,
+      "x": 733,
+      "y": 0
+    },
+    {
+      "fileName": "99999.png",
+      "width": 58,
+      "height": 41,
+      "x": 794,
+      "y": 0
+    }
+  ],
+  "packMode": "grid",
+  "padding": 0,
+  "backgroundColor": "rgba(0, 0, 0, 0)",
+  "spriteSheetWidth": 854,
+  "spriteSheetHeight": 41
+}
